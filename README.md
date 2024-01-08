@@ -8,7 +8,6 @@ I have a background in mathematics, and I like puzzles
 Hence you'll find some of my repositories to be centered around those two subjects.
 
 🎄Looking for something fun to do during the holidays? Take a look at [Advent of Code](https://adventofcode.com/).
-It is an ideal way to start a new language! ✨
 
 ## 📫 How to reach me
 
