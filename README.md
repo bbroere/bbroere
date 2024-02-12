@@ -47,7 +47,6 @@ Hence you'll find some of my repositories to be centered around those two subjec
 <a href="https://github.com/topics/angular"><img alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/topics/nativescript"><img alt="nativescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nativescript/nativescript.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/apache/kafka"><img alt="kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/308px-Apache_kafka.svg.png" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://github.com/topics/react"><img alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/akka"><img alt="akka" src="https://avatars.githubusercontent.com/u/1496237?s=200&v=4" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/topics/flask"><img alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/topics/android"><img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="40" style="vertical-align:top; margin:4px"></a>
@@ -60,6 +59,7 @@ Hence you'll find some of my repositories to be centered around those two subjec
 <a href="https://github.com/zio/zio"><img alt="zio" src="https://avatars.githubusercontent.com/u/49655448?s=200&v=4" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/monix/monix"><img alt="monix" src="https://avatars.githubusercontent.com/u/16490874?s=200&v=4" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/mrdoob/three.js"><img alt="three.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/topics/react"><img alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ### 🗃️ Databases
@@ -84,4 +84,5 @@ Hence you'll find some of my repositories to be centered around those two subjec
 <a href="https://github.com/topics/git"><img alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/topics/gitlab"><img alt="gitlab" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://skaffold.dev/"><img alt="skaffold" src="https://skaffold.dev/images/skaffold-logo-white.png" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/topics/webpack"><img alt="webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
