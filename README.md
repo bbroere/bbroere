@@ -7,7 +7,8 @@ at [FreshMinds](https://www.fresh-minds.nl/) from The Netherlands.
 I have a background in mathematics, and I like puzzles
 Hence you'll find some of my repositories to be centered around those two subjects.
 
-🎄Looking for something fun to do during the holidays? Take a look at [Advent of Code](https://adventofcode.com/).
+🎄 Looking for something fun to do during the holidays? Take a look at [Advent of Code](https://adventofcode.com/).
+🧩 Need some more (math) puzzles to fill your days? [Project Euler](https://projecteuler.net/) might just be your cup of tea.
 
 ## 📫 How to reach me
 
