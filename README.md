@@ -19,11 +19,11 @@ Hence you'll find some of my repositories to be centered around those two subjec
 
 ## Stats
 
-![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=yomantica&show_icons=true&theme=shades-of-purple&hide=stars)
+![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bbroere&show_icons=true&theme=shades-of-purple&hide=stars)
 
 ## Languages, tools and frameworks
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomantica&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbroere&theme=shades-of-purple)
 
 ### 💬 Languages
 <p>
