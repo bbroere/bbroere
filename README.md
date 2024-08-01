@@ -11,6 +11,8 @@ Hence you'll find some of my repositories to be centered around those two subjec
 
 🧩 Need some more (math) puzzles to fill your days? [Project Euler](https://projecteuler.net/) might just be your cup of tea.
 
+<img alt="projecteuler" src="https://projecteuler.net/profile/BasBroere.png" height="75"></a>
+
 ## 📫 How to reach me
 
 <p>
