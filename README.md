@@ -72,6 +72,7 @@ Hence you'll find some of my repositories to be centered around those two subjec
 <a href="https://github.com/topics/mongodb" target=_blank><img alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/topics/postgres" target=_blank><img alt="postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/topics/redis" target=_blank><img alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/topics/oracle" target=_blank><img alt="oracle" src="https://raw.githubusercontent.com/github/explore/902a8a38f1e277eb27d2a10ab95a3d524a6ea22f/topics/oracle-database/oracle-database.png" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ### 🧰 Tools and infrastructure
