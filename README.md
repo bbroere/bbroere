@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Bas Broere, and I'm a full-stack software developer, currently working
-at [FreshMinds](https://www.fresh-minds.nl/) from The Netherlands.
+at [PwC](https://www.pwc.nl/) in The Netherlands.
 
 ## Interests
 I have a background in mathematics, and I like puzzles
